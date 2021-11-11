@@ -10,3 +10,5 @@ The following settings can be easily adjusted:
 - 10-bit encoding (HDR Support)
 - Encoder preset
 - Output file name
+
+Usage: <code>./transcode.sh <i>input-file</i></code>
