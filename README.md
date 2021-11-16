@@ -11,4 +11,7 @@ The following settings can be easily adjusted:
 - Encoder preset
 - Output file name
 
+Dependencies: 
+- ffmpeg
+
 Usage: <code>./transcode.sh <i>input-file</i></code>
